@@ -9,7 +9,7 @@
 
 ## Introduction
 
-The final "basic" nested structure is the `Hash` of `Array`s.
+The fina   l "basic" nested structure is the `Hash` of `Array`s.
 
 ### Key Image: Result Set
 
